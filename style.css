@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+    font-family: 'Segoe UI', sans-serif;
+    padding: 30px;
+  }
+
+  img {
+    border-radius: 50%; /* Redondea la imagen */
+    border: 3px solid #060606;
+    display: block;
+    margin: 10px auto;
+  }
+  
+    
+  h1 {
+    color: rgb(41, 97, 226);
+    text-align: center;
+  }
+  
+  h3 {
+    color: #d44c7e;
+    margin-top: 20px;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
